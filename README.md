@@ -1,1 +1,1 @@
-This is a priject regarding sql and cobraCli
+This is a project regarding sql and cobraCli
